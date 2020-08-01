@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/editor-imagem/static/css/main.d0e78f77.chunk.css",
+    "main.js": "/editor-imagem/static/js/main.3c8725f9.chunk.js",
+    "main.js.map": "/editor-imagem/static/js/main.3c8725f9.chunk.js.map",
+    "runtime-main.js": "/editor-imagem/static/js/runtime-main.667e61b8.js",
+    "runtime-main.js.map": "/editor-imagem/static/js/runtime-main.667e61b8.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/editor-imagem/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.43a096e6.chunk.js": "/editor-imagem/static/js/2.43a096e6.chunk.js",
+    "static/js/2.43a096e6.chunk.js.map": "/editor-imagem/static/js/2.43a096e6.chunk.js.map",
+    "index.html": "/editor-imagem/index.html",
+    "precache-manifest.04b6b96bf3325540221e37e3786192bf.js": "/editor-imagem/precache-manifest.04b6b96bf3325540221e37e3786192bf.js",
+    "service-worker.js": "/editor-imagem/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/editor-imagem/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.d0e78f77.chunk.css.map": "/editor-imagem/static/css/main.d0e78f77.chunk.css.map",
+    "static/js/2.43a096e6.chunk.js.LICENSE.txt": "/editor-imagem/static/js/2.43a096e6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/editor-imagem/static/media/JockeyOne-Regular.271a1b94.ttf",
+    "static/media/default_image.png": "/editor-imagem/static/media/default_image.687fd5f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.667e61b8.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.43a096e6.chunk.js",
+    "static/css/main.d0e78f77.chunk.css",
+    "static/js/main.3c8725f9.chunk.js"
+  ]
+}
