@@ -18,7 +18,7 @@ function App() {
 		
 		<div className="mt-4 footer">
 			<div className="footer-content">
-				2020. Lucas Kenji. &nbsp;
+				2020, Lucas Kenji. &nbsp;
 				<span>
 					<a href="https://github.com/lucaskenji" target="_blank" rel="noopener noreferrer">
 						<img src={GithubLogo} alt="Github icon."/>
