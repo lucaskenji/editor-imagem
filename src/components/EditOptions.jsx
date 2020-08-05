@@ -47,6 +47,7 @@ class EditOptionsComponent extends React.Component {
 					onClick={() => {this.props.restoreDefaultValues()}}>
 					Restaurar propriedades iniciais
 				</button>
+				
 			</form>
 		);
 	}	
